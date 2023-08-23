@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Oleksandr Bondarenko   
 Full Stack Developer
-* 🌍  I'm based in Poland, Gdańsk 
+* 🌍  I'm based in Poland, Gdańsk | Valencia, Spain
 * ✉️  You can contact me at [bondarenkoov1998@gmail.com](mailto:bondarenkoov1998@gmail.com)
 * 🤝  I'm open to collaborating on Projects
 * 🌱 I always learn something new
