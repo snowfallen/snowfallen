@@ -38,6 +38,10 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/-Symfony-blue?style=flat-square&logo=symfony&logoColor=white)
 
+## Projects
+
+- [SQL Base](https://github.com/snowfallen/sql-base) - A mini cheat sheet with SQL commands and examples.
+
 ## Connect with Me
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/snowfallen/)
