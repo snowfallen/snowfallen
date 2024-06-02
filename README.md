@@ -21,7 +21,7 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-yellow?style=flat-square&logo=amazon-aws&logoColor=white)
 ![JUnit](https://img.shields.io/badge/-JUnit-red?style=flat-square&logo=junit&logoColor=white)
-![git](https://img.shields.io/badge/-Git-lightgrey?style=flat-square&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-lightgrey?style=flat-square&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-blue?style=flat-square&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql&logoColor=white)
@@ -37,6 +37,9 @@
 ![PHP](https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/-Symfony-blue?style=flat-square&logo=symfony&logoColor=white)
+![Servlet](https://img.shields.io/badge/-Servlet-green?style=flat-square&logo=servlet&logoColor=white)
+![Tomcat](https://img.shields.io/badge/-Tomcat-orange?style=flat-square&logo=apache-tomcat&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=postman&logoColor=white)
 
 ## Projects
 
