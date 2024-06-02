@@ -55,4 +55,6 @@
   <a href="https://www.linkedin.com/in/oleksandr-bondarenko-snowfall/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-![Funny GIF](https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" alt="Funny GIF">
+</p>
