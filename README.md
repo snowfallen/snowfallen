@@ -54,4 +54,5 @@
   <a href="https://github.com/snowfallen"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/oleksandr-bondarenko-snowfall/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
+
 ![Funny GIF](https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif)
