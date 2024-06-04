@@ -56,3 +56,9 @@
 ## Projects
 
 - [SQL Base](https://github.com/snowfallen/sql-base) - A mini cheat sheet with SQL commands and examples.
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snowfallen&show_icons=true&locale=en&layout=compact" alt="snowfallen" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snowfallen&show_icons=true&locale=en" alt="snowfallen" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snowfallen&" alt="snowfallen" /></p>
