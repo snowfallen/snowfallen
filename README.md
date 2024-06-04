@@ -1,7 +1,17 @@
- <h1 align="center"> </br></br></br> Hello, World!</br>
-  I'm Oleksandr, a Java Developer ☕️ </br></br></br>
+ <h1 align="center">
+ </br></br></br> Hello, World!</br>
+  I'm Oleksandr, a Java Developer ☕️  </br></br></br>
+  </p>
+   <p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjE1ZWJ0dDhtZmN5OHpqaDhqN2NtYmR3MGJ6c3JwMTljbjlhZDcwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" alt="Funny GIF">
+</p>
+  <p align="center">
+  <a href="https://leetcode.com/u/snowfallen/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+  <a href="https://github.com/snowfallen"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/oleksandr-bondarenko-snowfall/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
  </h1>
 
+ 
 - 🌱 **Currently honing my skills** in Java development and exploring new technologies.
 - 👯 **Open to collaboration** on exciting projects and eager to work with talented developers.
 - 🤔 **Looking for assistance** with refining and expanding my projects.
@@ -46,15 +56,3 @@
 ## Projects
 
 - [SQL Base](https://github.com/snowfallen/sql-base) - A mini cheat sheet with SQL commands and examples.
-
-## Connect with Me
-
-<p align="center">
-  <a href="https://leetcode.com/u/snowfallen/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"></a>
-  <a href="https://github.com/snowfallen"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/oleksandr-bondarenko-snowfall/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" alt="Funny GIF">
-</p>
