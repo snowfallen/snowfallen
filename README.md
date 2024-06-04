@@ -1,6 +1,6 @@
-# Hello, World! 👋
-
-## I'm Oleksandr Bondarenko, a Java Developer passionate about building robust and scalable software solutions.
+ <h1 align="center"> </br></br></br> Hello, World!</br>
+  I'm Oleksandr, a Java Developer ☕️ </br></br></br>
+ </h1>
 
 - 🌱 **Currently honing my skills** in Java development and exploring new technologies.
 - 👯 **Open to collaboration** on exciting projects and eager to work with talented developers.
