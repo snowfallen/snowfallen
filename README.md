@@ -53,12 +53,10 @@
   <a href="https://symfony.com/"><img src="https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony"/></a>
 </p>
 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=snowfallen&show_icons=true&locale=en&theme=tokyonight" alt="snowfallen"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snowfallen&theme=tokyonight" alt="snowfallen" /></p>
+
 ## Projects
 
 - [SQL Base](https://github.com/snowfallen/sql-base) - A mini cheat sheet with SQL commands and examples.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snowfallen&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="snowfallen" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snowfallen&show_icons=true&locale=en&theme=tokyonight" alt="snowfallen"/></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snowfallen&theme=tokyonight" alt="snowfallen" /></p>
