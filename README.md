@@ -54,7 +54,9 @@
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=snowfallen&show_icons=true&locale=en&theme=tokyonight" alt="snowfallen"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snowfallen&theme=tokyonight" alt="snowfallen" /></p>
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snowfallen&theme=tokyonight" alt="snowfallen" />
+</p>
 
 ## Projects
 
