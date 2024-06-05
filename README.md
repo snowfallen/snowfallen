@@ -7,7 +7,6 @@
 </p>
   <p align="center">
   <a href="https://leetcode.com/u/snowfallen/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"></a>
-  <a href="https://github.com/snowfallen"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/oleksandr-bondarenko-snowfall/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
  </h1>
 
