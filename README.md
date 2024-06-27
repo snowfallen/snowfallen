@@ -61,4 +61,3 @@
 ## Projects
 
 - [SQL Base](https://github.com/snowfallen/sql-base) - A mini cheat sheet with SQL commands and examples.
-
